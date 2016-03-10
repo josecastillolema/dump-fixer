@@ -1,6 +1,5 @@
 #!/usr/bin/python
-
-# Author: José Castillo Lema <josecastillolema@gmail.com>
+# Author: Jose Castillo Lema <josecastillolema@gmail.com>
 
 import sys
 import dpkt
