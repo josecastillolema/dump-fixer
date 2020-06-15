@@ -1,5 +1,7 @@
 ![GitHub](https://img.shields.io/github/license/josecastillolema/dump-fixer)
 ![GitHub top language](https://img.shields.io/github/languages/top/josecastillolema/dump-fixer)
+[![Requirements Status](https://requires.io/github/josecastillolema/dump-fixer/requirements.svg?branch=master)](https://requires.io/github/josecastillolema/dump-fixer/requirements/?branch=master)
+
 
 dump-fixer
 ==============
