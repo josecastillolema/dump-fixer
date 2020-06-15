@@ -1,5 +1,4 @@
 ![GitHub](https://img.shields.io/github/license/josecastillolema/dump-fixer)
-![GitHub language count](https://img.shields.io/github/languages/count/josecastillolema/dump-fixer)
 ![GitHub top language](https://img.shields.io/github/languages/top/josecastillolema/dump-fixer)
 
 dump-fixer
